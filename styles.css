@@ -1,0 +1,38 @@
+*{
+    background-color: black;
+    color: aliceblue;
+}
+
+fieldset{
+    border: solid red 2px;
+    margin-top: 250px;
+    margin-left: 500px;
+    width: 450px;
+    height: 200px;
+    border-radius: 20px;
+}
+input{
+    border: none;
+    background-color: aliceblue;
+    color: black;
+    width: 300px;
+    height: 50px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 30px;
+    border-radius: 20px;
+}
+input.cel{
+    margin-left: 60px;
+}
+input.far{
+    margin-left: 28px;
+}
+legend{
+    font-size: 50px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-left: 25%;
+}
+label{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+}
