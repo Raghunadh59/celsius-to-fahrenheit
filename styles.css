@@ -42,7 +42,7 @@ label{
 
 @media only screen and (max-width: 500px) {
     fieldset{
-        width: 350px;
+        width: 355px;
     }
     input{
         width:200px;
